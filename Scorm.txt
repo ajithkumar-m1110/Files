@@ -1,0 +1,49 @@
+
+SCORM --> Its sets the rule for transfering information between all ingredients
+	Using SCORM authoring tools we can able to create a training content from the scratch.
+	Authoring tools can help you to create learning content, their features and many other things
+	We have different types of authoring tools, from these we can choose it depends upon our needs.
+
+
+
+LMS --> An lms is a oline platform that deleiver courses to learners
+	using LMS we can able to register the progress
+
+
+
+SCORM stands for (Sharable Content Object Reference Model), it tells us how to create a course content in e-Learning platform.
+Using SCORM authoring tools we can able to create a training content from the scratch,
+and can help you to create learning content, their features and many other things.
+We have different types of authoring tools, from these we can choose it depends upon our needs.
+
+A SCORM authoring tool is software that allows you to create e-Learning content with LMS.
+The courses built with these tools can be shared and reused across different training platforms
+
+An LMS (Learning Management System)is a software application for online platform that deliver courses to learners,
+the way in which e-Learning courses are created and launched. using LMS we can able to register the progress.
+
+
+
+
+
+A SCORM authoring tool is software that allows you to create e-Learning content with LMS.
+The courses built with these tools can be shared and reused across different training platforms
+
+
+
+	What is LMS
+	How it's works
+	Types of LMS
+	LMS Tracking
+
+
+
+	Quiz & it's types
+	SCORM authoring tools
+	How to choose SCORM tools
+
+
+
+	what is Screencasts
+	How to record the videos
+	How to create a training videos
